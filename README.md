@@ -1,6 +1,6 @@
 # Thero-A-Mental-Health-Chatbot
 
-For the main chatbot with source code ping my linkedIn page : https://www.linkedin.com/in/sricharan46
+For the main chatbot with source code ping my linkedIn page : https://www.linkedin.com/in/sricharan47
 
 After cloning this project try to create a file with environments like your gemini api key and secret key and also your local db details like username, password, db_name and table_name.
 
